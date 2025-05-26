@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abishek and I'm a beginner as Front-End developer, from Tamil Nadu !</h2>
+<h3 align="left">Hi 👋! My name is Abishek and I'm a beginner as Front-End developer, from Tamil Nadu !</h3>
 
 ###
 
@@ -32,16 +32,25 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  <a href="https://www.instagram.com/abishek.xe/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/abishek-m-xe54z/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=in&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/abishekm0613" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/abishekinterspa1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
+<h3 align="left">No of Profile Visits :</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abishek-Web-Co/count.svg?"  />
 </div>
@@ -49,15 +58,17 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="100" src="pic.png"  />
 </div>
 
 ###
+
+<!-- <h3 align="left">Recently played Songs in spotify by Me !</h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/314nhpd3tiaii3xwdubu3gmzz63m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314nhpd3tiaii3xwdubu3gmzz63m&count=4&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
