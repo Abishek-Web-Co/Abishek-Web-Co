@@ -13,12 +13,12 @@
 
 ### 🧠 Languages Known
 
-- Python  
-- HTML  
-- CSS  
-- React  
-- Node.js  
-- JavaScript  
+> Python  
+> HTML  
+> CSS  
+> React  
+> Node.js  
+> JavaScript  
 
 ---
 
