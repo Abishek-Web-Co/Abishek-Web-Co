@@ -1,4 +1,5 @@
-<h3 align="left">Hi 👋! My name is Abishek and I'm a beginner as Front-End developer, from Tamil Nadu !</h3>
+<h2 align="center">Hi 👋! My name is <b>Abishek</b> and I'm a beginner as Front-End developer!</h2>
+---
 
 ###
 
@@ -9,20 +10,15 @@
 
 ###
 
+<h3 align="center">Languages Known </h3>
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+  > Python
+  > Html
+  > Css
+  > React
+  > Node JS
+  > JavaScript
 </div>
 
 ###
@@ -31,29 +27,31 @@
 
 ###
 
+<h3 align="left">My social Media Links are here :</h3>
+
 <div align="left">
   <a href="https://www.instagram.com/abishek.xe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="instagram logo"  />
+    > Instagram
   </a>
   <a href="https://www.linkedin.com/in/abishek-m-xe54z/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=in&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="linkedin logo"  />
+    > Linkedin
   </a>
   <a href="https://x.com/abishekm0613" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="twitter logo"  />
+    > X
   </a>
   <a href="https://www.hackerrank.com/profile/abishekinterspa1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00adb5&logoColor=white&labelColor=00adb5&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    > Hackerank
   </a>
 </div>
-
+---
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <h3 align="left">No of Profile Visits :</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abishek-Web-Co/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
