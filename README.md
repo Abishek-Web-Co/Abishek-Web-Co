@@ -42,5 +42,5 @@
 ---
 
 <div align="center">
-  <img height="100" src="pic.png" alt="Profile Picture" />
+  <img height="200" src="pic.png" alt="Profile Picture" />
 </div>
