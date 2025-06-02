@@ -33,13 +33,6 @@
 
 ---
 
-### 👀 Profile Visits
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abishek-Web-Co/count.svg?" alt="Profile Counter" />
-</div>
-
----
 
 <div align="center">
   <img height="200" src="pic.png" alt="Profile Picture" />
