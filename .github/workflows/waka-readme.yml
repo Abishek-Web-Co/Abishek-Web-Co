@@ -18,3 +18,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_PROFILE_VIEWS: "False"
