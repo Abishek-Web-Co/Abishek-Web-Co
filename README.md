@@ -40,12 +40,6 @@
 
 ---
 
-### Github Activity Graph
-
-[![Abishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek-Web-Co&bg_color=0d1117&color=ffffff&line=9e4c98&point=9e4c9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2051%20mins-blue)
 
@@ -114,4 +108,12 @@ HTML                     1 repo              ████████░░░�
 
  Last Updated on 02/06/2025 17:46:53 UTC
 <!--END_SECTION:waka-->
+
+---
+
+### Github Activity Graph
+
+[![Abishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek-Web-Co&bg_color=0d1117&color=ffffff&line=9e4c98&point=9e4c9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
