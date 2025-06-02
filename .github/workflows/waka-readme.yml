@@ -19,3 +19,4 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_LOC_CHART: "False"
