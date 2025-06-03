@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <a href="(https://abish-file.web.app/)"><img height="200" src="pic.png" alt="Profile Picture" /></a>
+  <img height="200" src="pic.png" alt="Profile Picture" />
 </div>
 
 ---
