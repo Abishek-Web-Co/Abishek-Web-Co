@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" height="150" src="https://abish-file.web.app/assets/favicon.png" alt="My Icon" />
+<img align="right" height="150" src="https://abish-file.web.app/assets/favicon.png" href="abish-file.web.app" alt="My Icon" />
 
 ### 🌐 Connect with me
 
@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <img height="200" src="pic.png" alt="Profile Picture" />
+  <a href="abish-file.web.app"><img height="200" src="pic.png" alt="Profile Picture" /></a>
 </div>
 
 ---
