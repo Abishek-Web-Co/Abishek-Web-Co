@@ -26,10 +26,10 @@
 
 ### 🌐 Connect with me
 
-- Instagram [abishek.xe](https://www.instagram.com/abishek.xe/)
-- Linkedin [abishek-m-xe54z](https://www.linkedin.com/in/abishek-m-xe54z/)
-- X (Twitter) [abishekm0613](https://x.com/abishekm0613)
-- HackerRank [abishekinterspa1](https://www.hackerrank.com/profile/abishekinterspa1)
+- Instagram   : [abishek.xe](https://www.instagram.com/abishek.xe/)
+- Linkedin    : [abishek-m-xe54z](https://www.linkedin.com/in/abishek-m-xe54z/)
+- X (Twitter) : [abishekm0613](https://x.com/abishekm0613)
+- HackerRank  : [abishekinterspa1](https://www.hackerrank.com/profile/abishekinterspa1)
 
 ---
 
