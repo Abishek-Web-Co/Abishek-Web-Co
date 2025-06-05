@@ -112,9 +112,5 @@ Python                   1 repo              █████░░░░░░�
 
 ---
 
-### Github Activity Graph
 
-[![Abishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek-Web-Co&bg_color=0d1117&color=ffffff&line=9e4c98&point=9e4c9c&area=true&hide_border=true)](https://abish-file.web.app)
-
----
 
