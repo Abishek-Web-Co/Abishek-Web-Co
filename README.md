@@ -106,6 +106,6 @@ Python                   1 repo              █████░░░░░░�
 ---
 
 <div align="center">
-  <a href="https://abish-file.web.app/"><img height="200" src="pic.png" alt="Profile Picture" /></a>
+  <a href="https://abish-file.web.app/" target="_blank" rel="noopener noreferrer"><img height="200" src="pic.png" alt="Profile Picture" /></a>
 </div>
 
