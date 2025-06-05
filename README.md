@@ -33,13 +33,6 @@
 
 ---
 
-
-<div align="center">
-  <img height="200" src="pic.png" alt="Profile Picture" />
-</div>
-
----
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2011%20mins-blue)
 
@@ -112,5 +105,7 @@ Python                   1 repo              █████░░░░░░�
 
 ---
 
-
+<div align="center">
+  <img height="200" src="pic.png" alt="Profile Picture" />
+</div>
 
