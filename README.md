@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" height="150" src="https://abish-file.web.app/assets/favicon.png" alt="My Icon" />
+<img align="right" height="150" src="https://abish-file.web.app/assets/pics/me.png" alt="My Icon" />
 
 ### 🌐 Connect with me
 
