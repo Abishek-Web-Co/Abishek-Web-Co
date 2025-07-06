@@ -21,7 +21,6 @@
 
 ---
 
-<img align="right" height="50" src="https://abish-file.web.app/assets/pics/circle_me.png" alt="My Icon" style="border-radius: 50%;" />
 
 ### 🌐 Connect with me
 
