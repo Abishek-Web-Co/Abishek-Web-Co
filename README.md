@@ -5,7 +5,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abishek-Web-Co&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  ![Abishek-Web-Co's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-Web-Co&theme=react&show_icons=true&hide_border=true&layout=compact)
+  ![Abishek-Web-Co's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abishek-Web-Co&theme=react&hide_border=true)
 </div>
 
 ---
