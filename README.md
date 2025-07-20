@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is <b>Abishek</b> and I'm a beginner Front-End Developer!</h2>
+<h2 align="center">Hi 👋! My name is <b>Abishek</b> and I'm a beginner Full-Stack Developer!</h2>
 
 ---
 
