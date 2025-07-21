@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-Web-Co&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek-Web-Co&theme=react&hide_border=true" height="150" alt="GitHub Streak Stats" />
 </div>
 
 ---
