@@ -17,7 +17,9 @@
 - CSS  
 - React  
 - Node.js  
-- JavaScript  
+- JavaScript
+- Express
+- MongoDB
 
 ---
 
