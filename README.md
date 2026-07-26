@@ -41,6 +41,8 @@ I build web applications using modern JavaScript frameworks and Python.
 ###
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2046%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 546.1 kB Used in GitHub's Storage 
@@ -80,18 +82,16 @@ Sunday                   277 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   53 mins             ██████████░░░░░░░░░░░░░░░   41.41 % 
-CSS                      39 mins             ████████░░░░░░░░░░░░░░░░░   30.47 % 
-JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Python                   53 mins             ███████████████████████░░   92.44 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 24 mins        ████████████████░░░░░░░░░   65.40 % 
-VS Code                  44 mins             █████████░░░░░░░░░░░░░░░░   34.60 % 
+VS Code                  44 mins             ███████████████████░░░░░░   77.22 % 
+Antigravity IDE          13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:14:47 UTC
+ Last Updated on 26/07/2026 03:28:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
