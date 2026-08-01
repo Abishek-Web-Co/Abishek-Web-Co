@@ -41,9 +41,9 @@ I build web applications using modern JavaScript frameworks and Python.
 ###
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,24 +84,24 @@ Sunday                   278 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   19 mins             █████████████░░░░░░░░░░░░   50.85 % 
-Other                    16 mins             ███████████░░░░░░░░░░░░░░   43.02 % 
-Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Other                    16 mins             ██████████████████████░░░   87.49 % 
+Java                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  22 mins             ██████████████░░░░░░░░░░░   56.98 % 
-Antigravity IDE          16 mins             ███████████░░░░░░░░░░░░░░   43.02 % 
+Antigravity IDE          16 mins             ██████████████████████░░░   87.49 % 
+VS Code                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (43.02%)
+⏱ AI Coding Time: 16 mins (87.49%)
 
-✍️ 0 lines written by AI, 56 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -129,7 +129,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:28:11 UTC
+ Last Updated on 01/08/2026 03:26:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
