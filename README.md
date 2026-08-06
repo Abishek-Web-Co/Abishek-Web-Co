@@ -49,7 +49,7 @@ I build web applications using modern JavaScript frameworks and Python.
 
 > 📦 546.3 kB Used in GitHub's Storage 
  > 
-> 🏆 675 Contributions in the Year 2026
+> 🏆 678 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +60,21 @@ I build web applications using modern JavaScript frameworks and Python.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                327 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-🌆 Daytime                438 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-🌃 Evening                768 commits         ███████████░░░░░░░░░░░░░░   42.04 % 
-🌙 Night                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌞 Morning                327 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+🌆 Daytime                438 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+🌃 Evening                771 commits         ███████████░░░░░░░░░░░░░░   42.13 % 
+🌙 Night                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Tuesday                  322 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Wednesday                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Friday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Saturday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sunday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Monday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  322 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Wednesday                278 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Friday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Saturday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Sunday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 ```
 
 
@@ -84,35 +84,39 @@ Sunday                   280 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 mins             ██████████████████████░░░   87.52 % 
-Java                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Python                   1 hr 53 mins        ████████████████████░░░░░   78.21 % 
+Text                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Antigravity IDE          16 mins             ██████████████████████░░░   87.52 % 
-VS Code                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Antigravity IDE          2 hrs 22 mins       █████████████████████████   98.35 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (87.52%)
+⏱ AI Coding Time: 2 hrs 22 mins (98.35%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 325 lines written by AI, 8 lines written by hand (97.6% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 37 AI Prompts
+
+Opus                     225 lines           █████████████████░░░░░░░░   69.23 % 
+Gemini                   100 lines           ████████░░░░░░░░░░░░░░░░░   30.77 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 26 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.6% of written lines came from AI
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 2.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +132,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 02:53:01 UTC
+ Last Updated on 06/08/2026 02:56:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
