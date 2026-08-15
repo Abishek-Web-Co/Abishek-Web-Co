@@ -84,19 +84,41 @@ Sunday                   280 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      32 mins             ████████████░░░░░░░░░░░░░   47.18 % 
+JavaScript               29 mins             ███████████░░░░░░░░░░░░░░   43.40 % 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          1 hr 7 mins         █████████████████████████   99.98 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 7 mins (99.98%)
+
+✍️ 327 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 25 AI Prompts
+
+Sonnet                   229 lines           ████████████░░░░░░░░░░░░░   48.72 % 
+Opus                     209 lines           ███████████░░░░░░░░░░░░░░   44.47 % 
+Gemini                   32 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 184 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +134,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 02:21:17 UTC
+ Last Updated on 15/08/2026 01:29:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
